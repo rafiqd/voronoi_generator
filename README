@@ -1,0 +1,7 @@
+Requirements:
+    python3
+
+Usage:
+    python MainWidget <number_of_points>
+
+    number_of_points: optional argument, sets the number of points in the voroonoi diagram; default = 500
